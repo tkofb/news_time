@@ -1,0 +1,6 @@
+I want to create a forex sort of indicator that monitors pairs that move in New York Session:
+E.g. EUR/USD, USD/JPY, GBP/USD, USD/CHF, and AUD/USD.
+
+Maybe use this site for above idea: https://fiscaldata.treasury.gov/datasets/treasury-reporting-rates-exchange/treasury-reporting-rates-of-exchange 
+
+I can also do something along the lines of future prices over time
